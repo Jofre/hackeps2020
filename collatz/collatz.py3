@@ -1,4 +1,4 @@
-i,a,b=10**5,0,0
+i,a=10**5,0
 while i>0:
  v,n=0,i
  while n>1:
